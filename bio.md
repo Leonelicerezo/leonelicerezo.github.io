@@ -19,4 +19,4 @@ I would like to make a career out of the military and eventually retire in the P
 
 OF my many interests I enjoy working out, studying, goal setting and traveling the world. If possible I would love to travel to at least 30 countries before the age of 40. So far I have travelled to Japan, Canada, Mexico, Thailand, Australia, The United Emirates, Taiwan and South Korea. I have a scuba diving license but have not been scuba diving as much as I'd like to.
 
-Go back to my [home page.](https://github.com/leonelicerezo/index.md "My home page")
+Go back to my [home page.](https://iwakunibob.github.io/bio "My home page")
