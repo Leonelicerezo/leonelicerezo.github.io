@@ -42,4 +42,4 @@ This app provides non-profit world class education and can be used to assist you
 ![Khan Academy](https://pbs.twimg.com/profile_images/1757154208/KA_Indo_400x400.png "Khan Academy")
 
 
-Go back to my [home page.](
+Go back to my [home page.](https://leonelicerezo.github.io/index "My home page")
