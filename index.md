@@ -15,3 +15,8 @@ Below are just a few pictures of the beautiful sites around this area.
 
 ## The Miyajima Shrine is definetely one of the most spectacular sites in the area and is not too far from Iwakuni, Japan.
 ![https://cache.wa-pedia.com/images/content/miyajima-0.jpg](https://cache.wa-pedia.com/images/content/miyajima-0.jpg "Miyajima Shrine")
+
+## Website Breakdown
+[Home Page](https://leonelicerezo.github.io/index)
+[Bio](https://leonelicerezo.github.io/bio)
+[Topic](https://leonelicerezo.github.io/topic)
