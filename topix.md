@@ -34,3 +34,12 @@ This app can help you keep up with the world and society by breaking down many o
 + Google News <https://news.google.com/?hl=en-US&gl=US&ceid=US:en>
 
 ![https://www.bing.com/th?id=OIP.a9WQWWUYbCAiXwsRMg3N_gHaHa&w=193&h=180&c=7&o=5&pid=1.7](https://www.bing.com/th?id=OIP.a9WQWWUYbCAiXwsRMg3N_gHaHa&w=193&h=180&c=7&o=5&pid=1.7 "Google News")
+
+This app provides non-profit world class education and can be used to assist you in your educational endeavors!
+
++Khan Academy <https://www.khanacademy.org/>
+
+![Khan Academy](https://pbs.twimg.com/profile_images/1757154208/KA_Indo_400x400.png "Khan Academy")
+
+
+Go back to my [home page.](
