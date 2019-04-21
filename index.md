@@ -17,6 +17,8 @@ Below are just a few pictures of the beautiful sites around this area.
 ![https://cache.wa-pedia.com/images/content/miyajima-0.jpg](https://cache.wa-pedia.com/images/content/miyajima-0.jpg "Miyajima Shrine")
 
 ## Website Breakdown
-[Home Page](https://leonelicerezo.github.io/index)
-[Bio](https://leonelicerezo.github.io/bio)
-[Topic](https://leonelicerezo.github.io/topic)
++ [Home Page](https://leonelicerezo.github.io/index)
+
++ [Bio](https://leonelicerezo.github.io/bio)
+
++ [Topic](https://leonelicerezo.github.io/topic)
