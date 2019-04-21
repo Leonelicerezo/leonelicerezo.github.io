@@ -1,8 +1,8 @@
 ## Welcome to my home page!
 
-You can use the [editor on GitHub](https://github.com/Leonelicerezo/leonelicerezo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+by Leonel I. Cerezo Sr
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can view my biography at [https://leonelicerezo.github.io/biography](https://leonelicerezo.github.io/biography).
 
 ### Markdown
 
